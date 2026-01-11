@@ -1,10 +1,10 @@
 {
   "name": "ishan-pairing-site",
   "version": "0.0.1",
-  "description": "A multi functional whatsapp bot Web paircode Created By ArslanMD Official.",
-  "main": "arslan.js",
+  "description": "A multi functional whatsapp bot Web paircode Created By ishanMD Official.",
+  "main": "index.js",
   "scripts": {
-    "start": "pm2 start arslan.js --deep-monitoring --attach --name ISHAN-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name ISHAN-MD",
     "stop": "pm2 stop ISHAN-MD",
     "restart": "pm2 restart ISHAN-MD"
   },
